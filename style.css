@@ -4,11 +4,11 @@ body {
   color: black;
   font-family: craft;
 }
-body{background-image: url(images/smilebg.png)}
+body{background-image: url(images/smilebg.png) ; background-size: 50%}
 div {
   border-style: dotted;
-  border-color: #cda400;
-  background-color:#e6b800;
+  border-color: #FFD800;
+  background-color:#7A6600;
   border-width: medium;
 }
 @font-face {
