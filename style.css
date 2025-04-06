@@ -1,0 +1,28 @@
+body {
+  background-color: #FFCC00;
+  text-align: center;
+  color: black;
+  font-family: craft;
+}
+body{background-image: url(images/smilebg.png)}
+div {
+  border-style: dotted;
+  border-color: #cda400;
+  background-color:#e6b800;
+  border-width: medium;
+}
+@font-face {
+font-family: 'craft';
+src: url('/fonts/mcfont.ttf')
+}
+p {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 0px;
+}
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
