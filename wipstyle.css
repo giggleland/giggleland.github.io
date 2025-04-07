@@ -1,13 +1,13 @@
 body {
-  background-color: #9B8E00;
+  background-color: #FFFF00;
   text-align: center;
-  color: black;
+  color: red;
   font-family: craft;
 }
 div {
   border-style: dotted;
-  border-color: #9B8E00;
-  background-color:#B9B700;
+  border-color: red;
+  background-color: #000000;
   border-width: medium;
 }
 @font-face {
